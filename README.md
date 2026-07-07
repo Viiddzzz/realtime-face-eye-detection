@@ -1,8 +1,11 @@
-**👁️ Real-Time Face and Eye Detection using OpenCV**
+# 👁️ Real-Time Face and Eye Detection using OpenCV
 
 An end-to-end Computer Vision project developed using Python and OpenCV to detect human faces and eyes in real time through a webcam. The project uses Haar Cascade Classifiers to identify facial features efficiently and displays the detection results with bounding boxes for easy visualization.
 
-** 📘 Project Overview**
+
+
+## 📘 Project Overview
+
 * The Real-Time Face and Eye Detection System is a computer vision mini-project developed using Python and OpenCV.
   It demonstrates real-time object detection through a live webcam feed using Haar Cascade Classifiers a machine learning-based method for visual object recognition.
   
@@ -16,7 +19,7 @@ An end-to-end Computer Vision project developed using Python and OpenCV to detec
 
 
 
-**🎯 Objectives**
+## 🎯 Objectives
 
 - Detect human faces and eyes in real time using a webcam.
 - Apply Haar Cascade Classifiers for object detection.
@@ -25,7 +28,7 @@ An end-to-end Computer Vision project developed using Python and OpenCV to detec
 
 
 
-**🚀 Features**
+## 🚀 Features
 
 Real-time detection of faces and eyes from webcam input.
 
@@ -41,7 +44,7 @@ Modular and easy to extend with other detectors or DNN models.
 
 
 
-**🧰 Technologies Used**
+## 🧰 Technologies Used
 
 | Category | Tools |
 |----------|-------|
@@ -52,7 +55,8 @@ Modular and easy to extend with other detectors or DNN models.
 
 
 
-**📂 Folder Structure**
+## 📂 Project Structure
+
 📁 realtime-face-eye-detection/
 │
 ├── screenshots/
@@ -69,7 +73,7 @@ Modular and easy to extend with other detectors or DNN models.
 
 
 
-**⚙️ Installation and Setup**
+## ⚙️ Installation & Setup
 
 1. Clone the repository
 
@@ -92,7 +96,7 @@ python face_eye_detection.py
 
 
 
-**🛠️ How It Works**
+## 🛠️ How It Works
 
 1.Captures frames from your system’s webcam.
 
@@ -106,7 +110,7 @@ python face_eye_detection.py
 
 
 
-**🏁 Results**
+## 🏁 Results
 
 - Successfully detects faces and eyes in real time.
 - Displays bounding boxes around detected facial features.
@@ -115,7 +119,7 @@ python face_eye_detection.py
 
 
 
-**💼 Real-World Applications**
+## 💼 Real-World Applications
 
 - Smart attendance systems
 - Driver monitoring systems
@@ -123,8 +127,7 @@ python face_eye_detection.py
 - Human-computer interaction
 - Surveillance and security systems
 
-
-**🛠 Skills Demonstrated**
+## 🛠 Skills Demonstrated
 
 - Python Programming
 - OpenCV
@@ -134,7 +137,7 @@ python face_eye_detection.py
 - Real-Time Video Processing
 
 
-**🌟 Future Enhancements**
+## 🌟 Future Enhancements
 
 1.Add Deep Learning (DNN)-based face detectors for better accuracy.
 
@@ -145,7 +148,7 @@ python face_eye_detection.py
 4.Deploy as a small desktop or web app using Flask or Streamlit.
 
 
-**🧑‍💻 Author**
+## 🧑‍💻 Author
 Vidyashree S
 
 Aspiring Data Analyst | Python & Computer Vision Enthusiast
