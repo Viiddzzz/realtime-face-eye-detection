@@ -109,23 +109,7 @@ python face_eye_detection.py
 5.Draws labeled bounding boxes and displays live results.
 
 
-## 📸 Project Screenshots
-
-### Face Detection
-
-![Face Detection](screenshots/face_detection_result.png)
-
----
-
-### Eye Detection
-
-![Eye Detection](screenshots/eye_detection_result.png)
-
----
-
-### Live Webcam Output
-
-![Live Output](screenshots/live_detection_output.png)
+    
 
 ## 🏁 Results
 
