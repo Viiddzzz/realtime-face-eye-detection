@@ -14,12 +14,16 @@ An end-to-end Computer Vision project developed using Python and OpenCV to detec
   
 * The project provided hands-on experience in image processing, object detection, and real-time video analysis, showcasing how traditional algorithms can be used effectively in practical computer vision applications.
 
+
+
 **🎯 Objectives**
 
 - Detect human faces and eyes in real time using a webcam.
 - Apply Haar Cascade Classifiers for object detection.
 - Demonstrate practical Computer Vision techniques using Python.
 - Provide a simple and efficient real-time detection system.
+
+
 
 **🚀 Features**
 
@@ -36,6 +40,7 @@ Works in both Jupyter Notebook and command-line script modes.
 Modular and easy to extend with other detectors or DNN models.
 
 
+
 **🧰 Technologies Used**
 
 | Category | Tools |
@@ -48,7 +53,6 @@ Modular and easy to extend with other detectors or DNN models.
 
 
 **📂 Folder Structure**
-
 📁 realtime-face-eye-detection/
 │
 ├── screenshots/
@@ -62,6 +66,8 @@ Modular and easy to extend with other detectors or DNN models.
 ├── LICENSE
 │
 └── .gitignore
+
+
 
 **⚙️ Installation and Setup**
 
@@ -98,12 +104,16 @@ python face_eye_detection.py
 
 5.Draws labeled bounding boxes and displays live results.
 
+
+
 **🏁 Results**
 
 - Successfully detects faces and eyes in real time.
 - Displays bounding boxes around detected facial features.
 - Provides smooth live detection using OpenCV.
 - Demonstrates efficient implementation of Haar Cascade Classifiers.
+
+
 
 **💼 Real-World Applications**
 
