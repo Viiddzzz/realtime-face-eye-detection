@@ -109,24 +109,42 @@ python face_eye_detection.py
 5.Draws labeled bounding boxes and displays live results.
 
 
+## 📸 Project Screenshots
+
+### Face Detection
+
+![Face Detection](screenshots/face_detection_result.png)
+
+---
+
+### Eye Detection
+
+![Eye Detection](screenshots/eye_detection_result.png)
+
+---
+
+### Live Webcam Output
+
+![Live Output](screenshots/live_detection_output.png)
 
 ## 🏁 Results
 
-- Successfully detects faces and eyes in real time.
-- Displays bounding boxes around detected facial features.
-- Provides smooth live detection using OpenCV.
-- Demonstrates efficient implementation of Haar Cascade Classifiers.
-
+- Successfully detected faces and eyes in real time.
+- Achieved smooth detection using Haar Cascade Classifiers.
+- Displayed bounding boxes with minimal delay.
+- Built an efficient computer vision application using OpenCV.
 
 
 ## 💼 Real-World Applications
 
-- Smart attendance systems
-- Driver monitoring systems
-- Face recognition preprocessing
-- Human-computer interaction
-- Surveillance and security systems
+- Attendance Systems
+- Face Recognition Systems
+- Security Surveillance
+- Smart Camera Applications
+- Human Computer Interaction
 
+
+    
 ## 🛠 Skills Demonstrated
 
 - Python Programming
@@ -134,7 +152,8 @@ python face_eye_detection.py
 - Computer Vision
 - Image Processing
 - Haar Cascade Classifiers
-- Real-Time Video Processing
+- Real-Time Object Detection
+- NumPy
 
 
 ## 🌟 Future Enhancements
