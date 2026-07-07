@@ -1,4 +1,4 @@
-**# 👁️ Real-Time Face and Eye Detection using OpenCV**
+**👁️ Real-Time Face and Eye Detection using OpenCV**
 
 An end-to-end Computer Vision project developed using Python and OpenCV to detect human faces and eyes in real time through a webcam. The project uses Haar Cascade Classifiers to identify facial features efficiently and displays the detection results with bounding boxes for easy visualization.
 
