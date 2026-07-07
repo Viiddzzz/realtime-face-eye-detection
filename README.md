@@ -1,9 +1,8 @@
-**🧠 Real-Time Face and Eye Detection System**
+**# 👁️ Real-Time Face and Eye Detection using OpenCV**
 
-A real-time face and eye detection project using Python and OpenCV. Implements Haar Cascade Classifiers to identify faces and eyes from live video feed, highlighting them with labeled boxes. Focused on accuracy, speed, and simple visualization for easy interaction.
+An end-to-end Computer Vision project developed using Python and OpenCV to detect human faces and eyes in real time through a webcam. The project uses Haar Cascade Classifiers to identify facial features efficiently and displays the detection results with bounding boxes for easy visualization.
 
-
-**📋 Description**
+** 📘 Project Overview**
 * The Real-Time Face and Eye Detection System is a computer vision mini-project developed using Python and OpenCV.
   It demonstrates real-time object detection through a live webcam feed using Haar Cascade Classifiers a machine learning-based method for visual object recognition.
   
@@ -15,6 +14,12 @@ A real-time face and eye detection project using Python and OpenCV. Implements H
   
 * The project provided hands-on experience in image processing, object detection, and real-time video analysis, showcasing how traditional algorithms can be used effectively in practical computer vision applications.
 
+**🎯 Objectives**
+
+- Detect human faces and eyes in real time using a webcam.
+- Apply Haar Cascade Classifiers for object detection.
+- Demonstrate practical Computer Vision techniques using Python.
+- Provide a simple and efficient real-time detection system.
 
 **🚀 Features**
 
@@ -33,76 +38,52 @@ Modular and easy to extend with other detectors or DNN models.
 
 **🧰 Technologies Used**
 
-Python 3.x
-
-OpenCV (cv2)
-
-NumPy
-
-Pillow (PIL)
-
-Jupyter Notebook
+| Category | Tools |
+|----------|-------|
+| Language | Python |
+| Libraries | OpenCV, NumPy, Pillow |
+| Development Environment | Jupyter Notebook / VS Code |
+| Computer Vision | Haar Cascade Classifiers |
 
 
 
 **📂 Folder Structure**
 
-**realtime-face-eye-detection/
+📁 realtime-face-eye-detection/
 │
-
-├── src/
-
-│   └── face_eye_detection.py    # Main program file
-
+├── screenshots/
 │
-
-├── notebooks/
-
-│   └── RealTime_Face_Eye_Detection.ipynb
-
+├── face_eye_detection.py
 │
-
-├── assets/
-
-│   ├── screenshot1.png
-
-│   └── demo.gif
-
-│
-
 ├── requirements.txt
-
+│
 ├── README.md
-
-└── LICENSE**
-
+│
+├── LICENSE
+│
+└── .gitignore
 
 **⚙️ Installation and Setup**
 
-1.Clone the repository
-git clone https://github.com/<your-username>/realtime-face-eye-detection.git
+1. Clone the repository
+
+```bash
+git clone https://github.com/Viiddzzz/realtime-face-eye-detection.git
 cd realtime-face-eye-detection
+```
 
-2.Create a virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate       # macOS/Linux
-venv\Scripts\activate          # Windows
+2. Install dependencies
 
-3.Install required packages
+```bash
 pip install -r requirements.txt
+```
 
-4.Run the program
-python src/face_eye_detection.py
+3. Run the project
 
-Press q to close the live webcam window.
+```bash
+python face_eye_detection.py
+```
 
-
-
-**🧪 Running in Jupyter Notebook**
-
-**Open the file:**
-notebooks/RealTime_Face_Eye_Detection.ipynb
-Run each cell to see the live detection output right inside your notebook (you’ll need webcam permissions).
 
 
 **🛠️ How It Works**
@@ -116,6 +97,31 @@ Run each cell to see the live detection output right inside your notebook (you�
 4.Locates eyes within detected face regions.
 
 5.Draws labeled bounding boxes and displays live results.
+
+**🏁 Results**
+
+- Successfully detects faces and eyes in real time.
+- Displays bounding boxes around detected facial features.
+- Provides smooth live detection using OpenCV.
+- Demonstrates efficient implementation of Haar Cascade Classifiers.
+
+**💼 Real-World Applications**
+
+- Smart attendance systems
+- Driver monitoring systems
+- Face recognition preprocessing
+- Human-computer interaction
+- Surveillance and security systems
+
+
+**🛠 Skills Demonstrated**
+
+- Python Programming
+- OpenCV
+- Computer Vision
+- Image Processing
+- Haar Cascade Classifiers
+- Real-Time Video Processing
 
 
 **🌟 Future Enhancements**
@@ -132,9 +138,9 @@ Run each cell to see the live detection output right inside your notebook (you�
 **🧑‍💻 Author**
 Vidyashree S
 
-🎓 Student Project – Computer Vision / Python
+Aspiring Data Analyst | Python & Computer Vision Enthusiast
 
 📧 vidyaa1103@gmail.com
 
-🌐 https://github.com/Viiddzzz/Realtime-face-and-eye-detection
+https://github.com/Viiddzzz/realtime-face-eye-detection
 
